@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>OOP_Skills_Demo_1</name>
+    </assembly>
+    <members>
+        <member name="T:OOP_Skills_Demo_1.PetrolPump">
+            <summary>
+            Class for a Petrol Pump
+            </summary>
+        </member>
+        <member name="M:OOP_Skills_Demo_1.PetrolPump.#ctor">
+            <summary>
+            default constructor for when the oject is created and th ecretor doesn't input any values
+            </summary>
+        </member>
+        <member name="M:OOP_Skills_Demo_1.PetrolPump.#ctor(System.Double,System.Double,System.Double,System.String)">
+            <summary>
+            overloaded constructor to allow user input the values when the object is created
+            </summary>
+            <param name="price">Petrol price : double</param>
+            <param name="level">Fuel in tank : double</param>
+            <param name="order">Minimum order customer can make  : double</param>
+            <param name="type">what fuel it is : string</param>
+        </member>
+        <member name="M:OOP_Skills_Demo_1.PetrolPump.getPetrolPrice">
+            <summary>
+            Gets the petrol Price
+            </summary>
+            <returns>Price of Petrol : double</returns>
+        </member>
+        <member name="M:OOP_Skills_Demo_1.PetrolPump.getFuelLevel">
+            <summary>
+            Gets how much is left in the tank
+            </summary>
+            <returns>Current tank Capacity : double</returns>
+        </member>
+        <member name="M:OOP_Skills_Demo_1.PetrolPump.getMinOrder">
+            <summary>
+            finds out what the minimum order is
+            </summary>
+            <returns>What the minimum order  : double</returns>
+        </member>
+        <member name="M:OOP_Skills_Demo_1.PetrolPump.getFuelType">
+            <summary>
+            finds out what fuel type it is
+            </summary>
+            <returns>what type of fuel it is : string</returns>
+        </member>
+        <member name="M:OOP_Skills_Demo_1.PetrolPump.setPetrolPrice(System.Double)">
+            <summary>
+            sets the price of petrol
+            </summary>
+            <param name="petrolPriceIn">price of petrol : double</param>
+        </member>
+        <member name="M:OOP_Skills_Demo_1.PetrolPump.setFuelLevel(System.Double)">
+            <summary>
+            sets the quantity of fuel in the tank
+            </summary>
+            <param name="fuelLevelIn">quantity of fuel in tank : double</param>
+        </member>
+        <member name="M:OOP_Skills_Demo_1.PetrolPump.setMinOrder(System.Double)">
+            <summary>
+            sets the minimum order on a fill of fuel
+            </summary>
+            <param name="minOrderIn">minimum order of fuel : double</param>
+        </member>
+        <member name="M:OOP_Skills_Demo_1.PetrolPump.setFuelType(System.String)">
+            <summary>
+            what type of fuel is in the tank
+            </summary>
+            <param name="fuelTypeIn">what type of fuel is in the tank : string</param>
+        </member>
+        <member name="M:OOP_Skills_Demo_1.PetrolPump.addFuel(System.Double)">
+            <summary>
+            adds the inputted amount to the tank of fuel
+            </summary>
+            <param name="fuelAdded"> amount of fuel added : double</param>
+        </member>
+        <member name="M:OOP_Skills_Demo_1.PetrolPump.fillCarFromPump(System.Double)">
+            <summary>
+            Checks required each time fuel is pumped from the tank
+            </summary>
+            <param name="custFill">the amount of fuel the customer wants : double</param>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,7 @@
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Object Orientation\Skills demo 1\OOP_Skills_Demo_1\OOP_Skills_Demo_1\bin\Debug\OOP_Skills_Demo_1.exe.config
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Object Orientation\Skills demo 1\OOP_Skills_Demo_1\OOP_Skills_Demo_1\bin\Debug\OOP_Skills_Demo_1.exe
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Object Orientation\Skills demo 1\OOP_Skills_Demo_1\OOP_Skills_Demo_1\bin\Debug\OOP_Skills_Demo_1.pdb
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Object Orientation\Skills demo 1\OOP_Skills_Demo_1\OOP_Skills_Demo_1\obj\Debug\OOP_Skills_Demo_1.csprojResolveAssemblyReference.cache
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Object Orientation\Skills demo 1\OOP_Skills_Demo_1\OOP_Skills_Demo_1\obj\Debug\OOP_Skills_Demo_1.exe
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Object Orientation\Skills demo 1\OOP_Skills_Demo_1\OOP_Skills_Demo_1\obj\Debug\OOP_Skills_Demo_1.pdb
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Object Orientation\Skills demo 1\OOP_Skills_Demo_1\OOP_Skills_Demo_1\bin\Debug\OOP_Skills_Demo_1.XML
